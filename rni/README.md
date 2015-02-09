@@ -17,7 +17,6 @@ R&I is a web application that is used to allow company administrators to track w
 - From the admin panel, click on Member List from left navigation to view all current members
 - Check the checkbox next to the user you wish to activate and then click on 'Activate' button
 - You can now go to the app root in the browser and login as that user to view assigned documents and 
-- 
 
 ### Demo
 - User site: http://hoomashams.com/rni/
