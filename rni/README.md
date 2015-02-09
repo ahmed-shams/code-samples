@@ -6,7 +6,7 @@ R&I is a web application that is used to allow company administrators to track w
 - Upload files to your server
 - Create Database for this app, I use 'rni', but you are free to use any other name
 - Edit rni/includes/config.php with your connection and site details
-- run the rni.sql file to load your database with initial data
+- Load the rni.sql file to your database with initial data
 - You should now be able to view the app in the browser
 
 
