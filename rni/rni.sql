@@ -313,8 +313,3 @@ INSERT INTO `tbl_users` (`id`, `firstname`, `lastname`, `username`, `password`, 
 (8, 'Leavea', 'Bharathy', 'leavea', 'leavea', 0, 'rubymary@securenext.net', '1|', '0000-00-00', 'asdf', 'AK', 0, 'asdfasdf', 0, '2008-01-05 15:34:20', 'Inactive'),
 (9, 'Julie', 'Magi', 'julie', 'julie', 0, 'winifredruby.r@hotmail.com', '', '0000-00-00', 'asdf', 'FM', 0, 'asdf', 0, '2008-01-05 15:42:49', 'Active'),
 (10, 'mancy', 'rai', 'mancy', 'mancy', 0, 'seetharaman@securenext.net', '', '0000-00-00', 'adf', 'AL', 0, 'asdf', 1, '2008-01-05 15:48:45', 'Active'),
-(11, 'Reni', 'manick', 'reni', 'password', 0, 'rubymala@securenext.net', '2|11|', '1950-01-01', 'aasdf', 'GA', 98745, '', 0, '2008-01-08 14:40:30', 'Active'),
-(12, 'sram', 'L', 'sram', '12345', 0, 'seetharam@securenext.net', '1|2|11|', '1954-08-04', 'Madurai', 'IL', 5897896757, '', 1, '2008-01-08 18:39:08', 'Active'),
-(13, 'Lk', 'Malar', 'malar', 'password', 0, 'rubymaaa@securenext.net', '', '1950-01-01', 'asdfasdf', 'ID', 78945, '', 0, '2008-01-08 18:57:05', 'Active'),
-(20, 'ahmed', 'shams', 'ashams', 'mohamahm', 0, 'rubym@securenext.net', '1|2|11|', '1950-01-01', 'asdf', 'GU', 213131, '', 1, '2008-01-08 19:16:12', 'Active'),
-(21, 'Senthil', 'Kumar', 'senthil', 'senthil', 0, 'skumar@securenext.net', '2|', '1980-01-01', 'Chennai', '0', 600041, '', 1, '2008-01-10 08:52:14', 'Active');

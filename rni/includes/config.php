@@ -37,7 +37,7 @@
 	$global_config["DBHost"]			= "localhost";
 	$global_config["DBUserName"]  		= "";
 	$global_config["DBPassword"]		= "";
-	$global_config["DBDatabaseName"]	= ""; 
+	$global_config["DBDatabaseName"]	= "";
 	$global_config["DBTablePrefix"]		= "tbl_";
 	
 	// ***************************************************
