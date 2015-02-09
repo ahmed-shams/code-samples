@@ -1,0 +1,365 @@
+.tablebg1{
+ /*background-image: url(../images/portfoliocontent_bg.gif); */
+ background-image: url(../images/category_bg1.gif);
+ background-repeat: repeat-x;
+ background-position: bottom;
+ BACKGROUND-COLOR:#FFFFFF;
+} 
+.doctext {
+font-family:Arial, Helvetica, sans-serif; 
+font-size:13px; 
+font-weight:bolder; 
+color:#03537D; 
+cursor:pointer; 
+padding-left:5px;
+}
+.orangetext {
+font-family:Arial, Helvetica, sans-serif; 
+font-size:13px; 
+font-weight:bolder; 
+color:#FF6600; 
+cursor:pointer; 
+padding-left:5px;
+}
+
+.ErrorMsg {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FF0000;
+	font-size: 12px;
+	font-weight: bolder;
+}
+.paginationfont{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #405896;
+	font-size: 12px;
+	font-weight: bolder;
+}
+.paginationfontnumber{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #95151B;
+	font-size: 12px;
+	font-weight: bolder;
+}
+.SuccessMsg {
+	font-family: Arial, Helvetica, sans-serif;
+	color:	#339900;
+	font-size: 12px;
+	font-weight: bolder;
+}
+
+.FormHeading {
+	PADDING-LEFT: 5px; 
+	FONT-WEIGHT: bold; 
+	FONT-SIZE: 18px; 
+	color:#00ACD6; 
+	LINE-HEIGHT: 23px; 
+	FONT-FAMILY: Arial; 
+	TEXT-DECORATION: none
+	
+}
+input.textbox1 {
+	BORDER-RIGHT: #acacac 1px solid; 
+	PADDING-RIGHT: 2px; 
+	BORDER-TOP: #acacac 1px solid; 
+	PADDING-LEFT: 2px; 
+	FONT-SIZE: 14px; 
+	PADDING-BOTTOM: 2px; 
+	VERTICAL-ALIGN: middle; 
+	BORDER-LEFT: #acacac 1px solid; 
+	WIDTH: 230px; COLOR: #000000; 
+	PADDING-TOP: 4px; 
+	BORDER-BOTTOM: #acacac 1px solid; 
+	FONT-FAMILY: Arial;
+}
+
+.orangeFont {
+	color:#FF6600;
+	FONT-FAMILY: Arial; 
+	FONT-SIZE: 12px; 
+}
+.ListCell {
+	PADDING-LEFT: 20px; FONT-SIZE: 12px; PADDING-BOTTOM: 10px; COLOR: #787878; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+ .RequiredField {
+ PADDING-LEFT: 20px; 
+ FONT-WEIGHT: bold; 
+ FONT-SIZE: 14px; 
+ PADDING-BOTTOM: 10px; 
+ COLOR: #05608F; 
+ LINE-HEIGHT: 23px; 
+ FONT-FAMILY: Arial; 
+ TEXT-ALIGN: right; 
+ TEXT-DECORATION: none ;
+ FONT-FAMILY: Arial;
+}
+
+.topbg1 {
+	background-color: #f7f7f7;
+	border: 1px solid #003366;
+}
+.emailtext {
+	color: #5B0079;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.joinlink1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #5B0079;
+	cursor:pointer;
+}
+.textbox {
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+	width: 160px;
+}
+.topbar_bg {
+	background-image: url(../images/top-bar.gif);
+	background-repeat: no-repeat;
+}
+.ad-left-barbg {
+	background-image: url(../images/ad-left-bar.gif);
+	background-repeat: no-repeat;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-indent: 18px;
+}
+.midline {
+	background-color: #006699;
+}
+.reviewbuttons {
+	background-image: url(../images/review-button.gif);
+	background-repeat: no-repeat;
+	background-position:center;
+	height: 31px;
+	text-align:center;
+}
+.copyrighttext {
+	color: #888888;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 30px;
+}
+.bottomlink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 30px;
+	color: #888888;
+}
+.txtbox
+{border: 1px solid #000000;}
+
+
+.bluetext1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #509dc4;
+	text-indent: 10px;
+	line-height: 28px;
+	font-weight: bold;
+}
+.searchbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-indent: 10px;
+}
+.mediatitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #045884;
+	background-color: #c7deea;
+	border-top-width: 1px;
+	border-right-width: thin;
+	border-bottom-width: 1px;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #550170;
+	border-right-color: #550170;
+	border-bottom-color: #550170;
+	border-left-color: #550170;
+	text-indent: 10px;
+	line-height: 32px;
+	font-weight: bold;
+}
+.contentheading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #575757;
+	font-weight: bold;
+}
+.content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #888888;
+}
+.gradientbuttonbg {
+	background-image: url(../images/rate-bg.gif);
+	background-repeat: no-repeat;
+	width: 147px;
+	background-position: center;
+	cursor:pointer;
+}
+.descbg {
+	background-image: url(../images/desc-bg.jpg);
+	background-repeat:repeat-x;	
+}
+.imgbdr
+{border:1px solid #3d3d3d;}
+.headtext1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #1E5B7B;
+}
+.genretext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #888888;
+}
+.checkprice {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #030f84;
+}
+
+
+.datetext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #888888;
+}
+.fullreviewtext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #030f84;
+	font-weight: bold;
+}
+.dottedline {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: dotted;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+.gradientbuttontext	{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:35px; 
+	color:#28607D;
+	cursor:pointer;
+	font-weight:bolder;
+	}
+.reviewbuttonstext	{
+	color:#FFFFFF; 
+	cursor:pointer; 
+	font-family:Arial, Helvetica, sans-serif; 
+	font-weight:bolder; 
+	font-size:12px;
+	}
+.topbg
+  {
+  background-image:url(../images/topbg.gif);
+  background-repeat:no-repeat;
+  width:150px;
+  padding:15px 0px 0px 0px;
+  text-align:center;
+  margin:0px;
+  }
+   .botbg
+  {
+  background-image:url(../images/botbg.gif);
+  background-repeat:no-repeat;
+  background-position:bottom center;
+  width:150px;
+  height:11px;
+  margin:0px;
+  }
+  .imgbdr{border:1px solid #3d3d3d;}
+  .ProductListImgBg	{
+  	background-image:url(../images/bg-img.gif); 
+	background-repeat:repeat-x;
+	}
+	
+.buytableheader {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	height:23px;
+	color:#37383D; 
+	font-weight:bolder;
+	border-bottom:1px solid #ffffff;
+}	
+
+.buytabletext {
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:12px; 
+	color:#37383D;
+	border-bottom:1px solid #ffffff;
+}
+.publisher{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:12px; 
+	color:#442159;
+}
+.buytable	{
+	border-top:1px solid #550170; 
+	border-left:1px solid #999999; 
+	border-right:1px solid #999999; 
+	border-bottom:1px solid #9C9A9D;
+}
+.more {
+font-size:13px;
+cursor:pointer;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+color:#60007E;
+padding-top:10px;
+clear:both;
+}
+.tableTH {
+	background-image:url(../images/tab-bg.gif);
+	border-bottom:2px solid #990000;
+}
+.tableTdOdd {
+	background-color:#EEF5F9;	
+}
+.tableTdEven{	
+	background-color:#E0EAF0;
+}
+.tableTd {
+font-size:12px;
+font-family:Arial, Helvetica, sans-serif;
+color:#035581;
+padding-top:10px;
+clear:both;
+border-bottom:1px solid #ffffff;
+text-align:left;
+}
+.tableTitle{
+font-size:13px;
+font-family:Arial, Helvetica, sans-serif;
+color:#035581;
+text-align:left;
+padding-top:10px;
+clear:both;
+font-weight:bolder;
+border-bottom:1px solid #ffffff;
+}
+.PdtPrice {
+	font-family:Arial, Helvetica, sans-serif; 
+	padding-top:150px; 
+	font-size:18px; 
+	color:#C23605; 
+	font-weight:bolder;
+}
+

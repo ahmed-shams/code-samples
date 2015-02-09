@@ -1,0 +1,130 @@
+
+.WhiteFont{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFFFFF;
+font-weight:bold;
+padding-right:10px;
+padding-top:10px;
+}
+
+.BlackFont{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000000;
+font-weight:bold;
+padding-right:10px;
+padding-top:10px;
+}
+.leftmenulink
+{
+	FONT-WEIGHT: normal;
+	color:#2684db;
+	FONT-SIZE: 11px;
+	FONT-FAMILY: arial,verdana,tahoma;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.FeildSetFont {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#000000;
+	font-weight:bold;
+}
+
+.FormHeaderFont{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#000000;
+	font-weight:bold;
+}
+
+.TextBox {
+	border: 1px solid #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 1px;
+}
+
+.FormLabel{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	font-weight:normal;
+}
+
+.Button {
+	border: 1px solid #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color:#EEEEEE;
+	padding: 1px;
+	cursor:pointer;;
+}
+
+.GridHeader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color:#4ab6d6;
+	color:#FFFFFF;
+	padding: 3px;
+	font-weight:bold;
+}
+.BlueLink{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#0099FF;
+	font-weight:bold;
+}
+
+.GridTitle{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color:#ff7900;
+	font-weight:bold;
+	padding: 1px;
+}
+
+.GridDescription{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:#000000;
+	font-weight:normal;
+}
+
+.errormessage{
+    font-family: Arial, Helvetica, sans-serif;
+	background-color: #FFFFE1;
+	line-height: 4px;
+	border:1px dashed #CFCFCF;
+	allign:center;
+	}
+.FontColor{
+font-size: 12px;
+color:#FF0000;
+font-weight:bold;
+}
+.DottedLine{
+border:1px dashed #CFCFCF;
+}
+
+.ErrorMsg{
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-size:12px;
+
+	color:#990000;
+
+	font-weight:bold;
+
+	background-color: #E0EDFC;
+
+	border: 1px solid #086795;
+
+	height:30px;
+
+	width: 95%;
+
+}
