@@ -17,12 +17,12 @@
 	// **************************************************
 	//192.168.1.24
 	$global_config["SiteTitle"]						= "Read & Initial System";
-	$global_config["SiteGlobalPath"] 				= "http://www.alzangee3.com/read-initial/initialsystem/"; 
+	$global_config["SiteGlobalPath"] 				= "http://www.alzangee3.com/rni/";
 	$global_config["SiteScriptFolder"]				= $global_config["SiteGlobalPath"]."javascript/";
 	$global_config["SiteStylesFolder"]				= $global_config["SiteGlobalPath"]."styles/";
-	$global_config["SiteLocalPath"] 				= "/home/securene/public_html/solution/initialsystem/";
+	$global_config["SiteLocalPath"] 				= "/home/zangee3/public_html/solution/initialsystem/";
 	$global_config["SiteImagePath"]					= "";
-	$global_config["ADMIN_URL"]						= "http://www.yoursolutionnow.com/initialsystem/siteadmin/";
+	$global_config["ADMIN_URL"]						= "http://www.alzangee3.com/admin/";
 	$global_config["SiteScriptFolder"]				= $global_config["SiteGlobalPath"]."javascript/";
 	$global_config["SiteStylesFolder"]				= $global_config["SiteGlobalPath"]."styles/";
 	$global_config["SiteMainStyles"]				= $global_config["SiteStylesFolder"]."style.css";
@@ -30,15 +30,14 @@
 	
 	//$global_config["SiteImagePath"]				= "/";
 	
-	if($_SERVER['REMOTE_ADDR']=="192.168.1.24" or 1)
-	$global_config["debug_mode"] 					= 1;  // 1 = ON , 0 = OFF
+	$global_config["debug_mode"] 					= 0;  // 1 = ON , 0 = OFF
 	// **************************************************
 	// Database Details					- Prefix : DB	
 	//***************************************************
 	$global_config["DBHost"]			= "localhost";
-	$global_config["DBUserName"]  		= "zangee3_zangee3";
-	$global_config["DBPassword"]		= "mohamahm";
-	$global_config["DBDatabaseName"]	= "zangee3_rni";
+	$global_config["DBUserName"]  		= "";
+	$global_config["DBPassword"]		= "";
+	$global_config["DBDatabaseName"]	= ""; 
 	$global_config["DBTablePrefix"]		= "tbl_";
 	
 	// ***************************************************
@@ -46,7 +45,7 @@
 	// ***************************************************
 
 	
-	if($_SERVER['REMOTE_ADDR']=='192.168.1.19') {
+	if($_SERVER['REMOTE_ADDR']=='68.193.134.219') {
 		$global_config["debug_mode"] = 1;
 	} 
 ?>
