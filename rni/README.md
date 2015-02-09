@@ -20,6 +20,6 @@ R&I is a web application that is used to allow company administrators to track w
 - 
 
 ### Demo
-User site: http://hoomashams.com/rni/
-Admin Panel: http://hoomashams.com/rni/admin 
-admin login: admin/admin
+- User site: http://hoomashams.com/rni/
+- Admin Panel: http://hoomashams.com/rni/admin 
+- admin login: admin/admin
