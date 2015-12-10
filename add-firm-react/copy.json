@@ -1,0 +1,30 @@
+{
+    "add_button": "Add new firm",
+
+    "buy_side_label": "Buy side",
+    "client_type": "Client type",
+    "client_type_label": "Client type",
+    "sync_dealer": "Sync Dealer",
+    "firm_name": "Firm name",
+    "firm_name_label": "Firm name",
+    "firm_name_error": "Please enter a valid firm name",
+    "sap_id_error": "Please enter a valid SAP id",
+    "sell_side_label": "Sell side",
+    "status_label": "Active?",
+    "add_firm_value_error": "Please enter a valid value",
+
+    "no_firms_msg": "There are currently no firms.",
+    "no_data_msg": "There are currently no firms.",
+
+    "add_title": "Add new firm",
+    "edit_title": "Edit firm",
+
+    "remove_firm_confirmation_title": "Remove firm",
+    "remove_firm_confirmation_message": "Are you sure you want to remove selected firm?",
+
+    "excluded_dealers_list": "Excluded dealers list",
+
+    "excluded_dealers_list_usr_msg": "Hold ctrl + click for multi select.",
+
+    "setup_reactivation_message": "The firm has previously been deleted. Would you like to reactivate the firm?"
+}
